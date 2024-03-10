@@ -1,0 +1,26 @@
+{
+"name": "1nte11iTune",
+"version": "1.0.0",
+"description": "IntelliTune is an AI-powered music composition assistant that helps musicians and producers create harmonious melodies and chord progressions",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai11/1nte11iTune.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai11",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

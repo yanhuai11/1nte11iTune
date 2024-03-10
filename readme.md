@@ -1,0 +1,1 @@
+Description: IntelliTune is an AI-powered music composition assistant that helps musicians and producers create harmonious melodies and chord progressions. Its intuitive interface suggests musical ideas and helps refine compositions in real-time.
